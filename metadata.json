@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. AI Assistant",
+  "description": "Asistente personal con inteligencia artificial, control de red local y voz continua manos libres.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
